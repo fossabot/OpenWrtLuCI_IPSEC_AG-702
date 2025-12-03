@@ -215,10 +215,3 @@ MIT License
 2. Create a feature branch
 3. Test changes on actual hardware
 4. Submit a pull request
-
-## Support
-
-For issues specific to the Atreyo AG-702, please include:
-- OpenWrt version (`cat /etc/openwrt_release`)
-- IPsec logs (`logread | grep pluto`)
-- Configuration (sanitized) from `/etc/ipsec.conf`
